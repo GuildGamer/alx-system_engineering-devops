@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 find ./* -type d -print | wc -l
-=======
-#!/bin/nash
-find -mindepth 1 -type d | wc -l 
->>>>>>> 449f1e8e9d6cc92fe606f4a18b02a3a15863f43b
